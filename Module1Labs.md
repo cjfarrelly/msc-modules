@@ -28,7 +28,7 @@ The aims were:
 
 ### Description/Aims
 
-Jira is a project management system used primarily for the oversight of software projects.
+Jira is a project management system used primarily for the oversight of software projects. It gives users a wholistic view of project and portfolio data so that they can make proactive, informed decisions based on real time data and forecasting.
 
 The aims were:
 
@@ -49,7 +49,7 @@ The aims were:
 
 ### Description/Aims
 
-Github is an online service that allows people to publicly host and share files using the git version control system.
+Github is an online service that allows people to publicly host and share files using the git version control system. It makes things like integration, licensing and sharing of code easy and is a "shop window" for companies and developers alike to showcase their talents.
 
 The aims were:
 
@@ -69,7 +69,7 @@ The aims were:
 
 ### Description/Aims
 
-[Jenkins is an open source automation server written in Java.][1]
+[Jenkins is an open source automation server written in Java.][1] It is a very extendable service through the use of plugins and it's root's in open source. To integrate DevOps automation through pipelines into a company or project it has simple yet powerful capabilities.
 
 The aims were:
 
