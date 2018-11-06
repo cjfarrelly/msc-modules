@@ -62,7 +62,7 @@ Github is an online service that allows people to publicly host and share files 
 
 ### Description/Aims
 
-Jenkins is an open source automation server written in Java.[][1]
+[Jenkins is an open source automation server written in Java.][1]
 
 1.
 2.
