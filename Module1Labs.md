@@ -4,7 +4,7 @@
 
 As part of my submission I will add a cover page, but not on a public repo.
 
-## Lab 1
+## Lab 1 - Git
 
 ### Description/Aims
 
@@ -14,7 +14,7 @@ As part of my submission I will add a cover page, but not on a public repo.
 
 ### Conclusions
 
-## Lab 2
+## Lab 2 - Jira
 
 ### Description/Aims
 
@@ -24,7 +24,7 @@ As part of my submission I will add a cover page, but not on a public repo.
 
 ### Conclusions
 
-## Lab 3
+## Lab 3 - Github
 
 ### Description/Aims
 
@@ -34,7 +34,7 @@ As part of my submission I will add a cover page, but not on a public repo.
 
 ### Conclusions
 
-## Lab 4
+## Lab 4 - Jenkins
 
 ### Description/Aims
 
@@ -44,7 +44,7 @@ As part of my submission I will add a cover page, but not on a public repo.
 
 ### Conclusions
 
-## Lab 5
+## Lab 5 - Containers
 
 ### Description/Aims
 
