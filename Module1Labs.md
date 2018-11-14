@@ -12,21 +12,20 @@ Git is a distributed version control system widely used by the software communit
 
 The aims were:
 
-1. All project files used were to be version controlled.
-2. Investigations into the ease of use of this tool in a DevOps environment.
-3. Ease of integration with other DevOps tools.
-4. Ability to make file changes, track and undo those changes.
-5. Readability of file history.
+1. Ease of install of the tool.
+2. Integration with other DevOps tools.
+3. Ability to track and undo file changes.
+4. Readability of file history.
 
 ### Method
 
-The 64-bit version of Git for Windows was downloaded and the install instructions were followed. The GNU General Public License was acknowledged. Visual Studio Code was selected as the default editor to be used by Git. Windows Command Prompt was chosen to use Git from the command line, this option modifies the PATH variable of the Windows Operating System. The default OpenSSL library was chosen for Git to use over HTTPS connections. The default Checkout Windows-style, commit Unix-stlye line endings was chosen for how Git will treat line endings in text files. The default Use MinTTY was chosen as the terminal emulator that Git Bash will use. The default file system caching and Git Credential Manager features were left enabled with symbolic links left disabled. Experimental features were left enabled by default, these were built-in rebase and built-in stash. 
+The 64-bit version of Git for Windows was downloaded and the install instructions were followed. The GNU General Public License was acknowledged. Visual Studio Code was selected as the default editor to be used by Git. Windows Command Prompt was chosen to use Git from the command line, this option modifies the PATH variable of the Windows Operating System. The default OpenSSL library was chosen for Git to use over HTTPS connections. The default Checkout Windows-style, commit Unix-stlye line endings was chosen for how Git will treat line endings in text files. The default Use MinTTY was chosen as the terminal emulator that Git Bash will use. The default file system caching and Git Credential Manager features were left enabled with symbolic links left disabled. Experimental features were left enabled by default, these were built-in rebase and built-in stash. Git was installed and the Release Notes were viewed.
 
-Git was installed and the Release Notes were viewed.
+A repository was created. A sample text file was placed at the base of the newly created repository. The Git status command was ran to confirm the new file's existence. The file was added to the git staging area. The changes were committed. Further changes were made to the document. The Git log command was used to show a complete history of changes. Git reset was used to revert changes back to a previous commit point.
 
 ### Results
 
-
+Git was installed successfully on the Windows Operating System. The Git Bash application was available from the applications menu on the Windows Operating System. The PATH variable update was confirmed by opening a Windows Command Prompt, typing 'set' and pressing the enter key, it was noted that the Git cmd folder was part of the PATH. A Windows Command Prompt was opened and the Git install was verified by typing git and pressing the enter key, help was displayed for common Git commands. The Git install was further tested by typing 'git --version' into the Windows Command Prompt and pressing the enter key this displayed the currently installed version.
 
 ### Conclusions
 
