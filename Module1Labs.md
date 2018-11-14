@@ -8,21 +8,29 @@ As part of my submission I will add a cover page, but not on a public repo.
 
 ### Description/Aims
 
-Git is a distributed version control system widely used by the software community to collaborate easily on files. Git is essentially a miniature filesystem that uses snapshots, also known as commit points to keep a history of changes. Git is also distributed meaning that users can share their files easily with each other.
+Git is a distributed version control system widely used by the software community to collaborate easily on files. Git is essentially a miniature filesystem that uses snapshots; also known as commit points to keep a history of change. Git is distributed meaning that users can share their files easily with each other.
 
 The aims were:
 
 1. All project files used were to be version controlled.
 2. Investigations into the ease of use of this tool in a DevOps environment.
 3. Ease of integration with other DevOps tools.
-4. Ability to make file changes, track and undo those changes.z
+4. Ability to make file changes, track and undo those changes.
 5. Readability of file history.
 
 ### Method
 
+The 64-bit version of Git for Windows was downloaded and the install instructions were followed. The GNU General Public License was acknowledged. Visual Studio Code was selected as the default editor to be used by Git. Windows Command Prompt was chosen to use Git from the command line, this option modifies the PATH variable of the Windows Operating System. The default OpenSSL library was chosen for Git to use over HTTPS connections. The default Checkout Windows-style, commit Unix-stlye line endings was chosen for how Git will treat line endings in text files. The default Use MinTTY was chosen as the terminal emulator that Git Bash will use. The default file system caching and Git Credential Manager features were left enabled with symbolic links left disabled. Experimental features were left enabled by default, these were built-in rebase and built-in stash. 
+
+Git was installed and the Release Notes were viewed.
+
 ### Results
 
+
+
 ### Conclusions
+
+
 
 ## Lab 2 - Jira
 
@@ -41,9 +49,15 @@ The aims were:
 
 ### Method
 
+
+
 ### Results
 
+
+
 ### Conclusions
+
+
 
 ## Lab 3 - Github
 
@@ -61,9 +75,15 @@ The aims were:
 
 ### Method
 
+
+
 ### Results
 
+
+
 ### Conclusions
+
+
 
 ## Lab 4 - Jenkins
 
@@ -82,9 +102,15 @@ The aims were:
 
 ### Method
 
+
+
 ### Results
 
+
+
 ### Conclusions
+
+
 
 ## Lab 5 - Docker
 
@@ -103,9 +129,15 @@ The aims were:
 
 ### Method
 
+
+
 ### Results
 
+
+
 ### Conclusions
+
+
 
 ## References & Bibliography
 
