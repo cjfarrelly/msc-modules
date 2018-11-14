@@ -11,21 +11,24 @@ As part of my submission I will add a cover page, but not on a public repository
 Git is a distributed version control system widely used by the software community to collaborate easily on files. Git is essentially a miniature filesystem that uses snapshots; also known as commit points to keep a history of change. Git is distributed meaning that users can share their files easily with each other.
 
 The aims were:
-
-1. Ease of install of the tool.
+#note the higher level aspirtation and the reference to the lifecycle
+1. To install and explore Git for use as a version control tool for a local repository as part of quality control in the SDLC.
 2. Integration with other DevOps tools.
 3. Ability to track and undo file changes.
 4. Readability of file history.
 
 ### Method
-
+#No essays please. 3/4 page of concise bullet points. Keep it brief.
 The 64-bit version of Git for Windows was downloaded and the install instructions were followed. The GNU General Public License was acknowledged. Visual Studio Code was selected as the default editor to be used by Git. Windows Command Prompt was chosen to use Git from the command line, this option modifies the PATH variable of the Windows Operating System. The default OpenSSL library was chosen for Git to use over HTTPS connections. The default Checkout Windows-style, commit Unix-stlye line endings was chosen for how Git will treat line endings in text files. The default Use MinTTY was chosen as the terminal emulator that Git Bash will use. The default file system caching and Git Credential Manager features were left enabled with symbolic links left disabled. Experimental features were left enabled by default, these were built-in rebase and built-in stash. Git was installed and the Release Notes were viewed.
 
 A repository was created. A sample text file was placed at the base of the newly created repository. The Git status command was ran to confirm the new file's existence. The file was added to the git staging area. The changes were committed. Further changes were made to the document. The Git log command was used to show a complete history of changes. Git reset was used to revert changes back to a previous commit point.
 
 ### Results
-
-Git was installed successfully on the Windows Operating System. The Git Bash application was available from the applications menu on the Windows Operating System. The PATH variable update was confirmed by opening a Windows Command Prompt, typing 'set' and pressing the enter key, it was noted that the Git cmd folder was part of the PATH. A Windows Command Prompt was opened and the Git install was verified by typing git and pressing the enter key, help was displayed for common Git commands. The Git install was further tested by typing 'git --version' into the Windows Command Prompt and pressing the enter key this displayed the currently installed version.
+#likewise bullet points. 
+Git was installed successfully on the Windows Operating System. 
+Git cmd folder was confirmed to have been added to the PATH environment variable. 
+A local repository was created and adequately explored within the time allowed.
+#and so on...
 
 ### Conclusions
 
@@ -36,6 +39,8 @@ With Git being a command line tool the possibilities of integrating it with othe
 The use of command line tools can be somewhat overwhelming at first but once the basics are mastered adding, editing and removing files became instinctive. There are multiple GUI (Graphical User Interface) based tools available for the usage of Git but it would be envisaged that with practice the command line would be out perform these from a user perspective.
 
 The Git log is easy to follow with each commit point having a unique code (SHA-1 checksum)[3] this means that any commit point can be returned to at any stage. With this ease of use in mind and such a complete history it would be understood that more advanced operations such as branching and merging would be a less laborious task.
+#If you are looking for 70+ I would suggest getting a bit deeper into the conclusions and to ensure that you reference well to #justify your points.
+
 
 ## Lab 2 - Jira
 
