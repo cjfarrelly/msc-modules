@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As part of my submission I will add a cover page, but not on a public repo.
+As part of my submission I will add a cover page, but not on a public repository.
 
 ## Lab 1 - Git
 
@@ -29,13 +29,19 @@ Git was installed successfully on the Windows Operating System. The Git Bash app
 
 ### Conclusions
 
+Git is a useful tool not only for DevOps practices but the software industry as a whole. It was extremely easy to download and install with a minimum amount of configuration required. The documentation is exhaustive[2] and easy to follow with very simple but thorough examples.
 
+With Git being a command line tool the possibilities of integrating it with other DevOps tools to complete a process flow appear very possible. Flow's such as Build and Release pipelines for deployments, project management tools for tracking work or even creating release notes by using the commit logs between releases are real world use cases.
+
+The use of command line tools can be somewhat overwhelming at first but once the basics are mastered adding, editing and removing files became instinctive. There are multiple GUI (Graphical User Interface) based tools available for the usage of Git but it would be envisaged that with practice the command line would be out perform these from a user perspective.
+
+The Git log is easy to follow with each commit point having a unique code (SHA-1 checksum)[3] this means that any commit point can be returned to at any stage. With this ease of use in mind and such a complete history it would be understood that more advanced operations such as branching and merging would be a less laborious task.
 
 ## Lab 2 - Jira
 
 ### Description/Aims
 
-Jira is a project management system used primarily for the oversight of software projects. It gives users a wholistic view of project and portfolio data so that they can make proactive, informed decisions based on real time data and forecasting.
+Jira is a project management system used primarily for the oversight of software projects. It gives users a holistic view of project and portfolio data so that they can make proactive, informed decisions based on real time data and forecasting.
 
 The aims were:
 
@@ -141,3 +147,5 @@ The aims were:
 ## References & Bibliography
 
 [1]: https://en.wikipedia.org/wiki/Jenkins_(software)
+[2]: https://git-scm.com/docs
+[3]: https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
